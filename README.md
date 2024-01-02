@@ -1,2 +1,5 @@
-# Codedex
-Heyy :)
+## Heyy
+
+  #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@pcahaneku99522/30-nites-of-code)  
+  ![@pcahaneku99522 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=pcahaneku99522)
+
